@@ -8,8 +8,7 @@
 ### 1.5 created requirements.txt for required liberaries/packages
 
 
-# (2)  created src and build src(source) as a package 
-#    and entire project will be created in this folder itself as a package
+# (2)  created src and build src(source) as a package and entire project will be created in this folder itself as a package
 
 ### 2.1 components - created components folder so that I can use this components present inside it in my porject
 ### 2.1.1 "data_ingestion.py" component for data ingestion purpose
