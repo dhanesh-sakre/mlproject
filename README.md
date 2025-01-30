@@ -6,5 +6,5 @@
 # 1.3 sync github repo with my local machine
 # 1.4 created a setup.py for setup of my project
 # 1.5 created requirements.txt for required liberaries/packages
-# 1.6 created src and initialized __init__.py in it to build it as a package
+# 1.6 created src and initialized __init__.py in it to build src as a package
 
